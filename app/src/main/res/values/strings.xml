@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">E1_Weatherapp1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="citylist">Enter a City</string>
+    <string name="statelist">Enter a state</string>
+    <string name="cityHint">Enter a City</string>
+    <string name="stateHint">Enter a State</string>
+    <string name="submitText">submit</string>
+
+
+
+</resources>
