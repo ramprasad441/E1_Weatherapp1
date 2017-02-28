@@ -1,5 +1,7 @@
 package com.example.ramprasad.e1_weatherapp1.interfaces;
 
+import android.location.Location;
+
 import com.example.ramprasad.e1_weatherapp1.parse.Info;
 
 /**
@@ -8,4 +10,5 @@ import com.example.ramprasad.e1_weatherapp1.parse.Info;
 public interface TaskCommunicator {
 
     void getWeatherData(Info info);
+    void getLocation(Location location);
 }
